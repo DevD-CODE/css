@@ -1,0 +1,9 @@
+body {
+background-image: url(img.jpg);
+}
+h1 {
+background:black;
+color:white;
+text-decoration:underline;
+text-align:center;
+}

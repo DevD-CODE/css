@@ -1,0 +1,25 @@
+body {
+background:gray;
+font-family:bold;
+}
+A:link {
+text-decoration:underline;
+color:lime;
+}
+A:active {
+text-decoration:none;
+color:red;
+}
+A:hover {
+text-decoration:none;
+color:blue;
+}
+A:visited {
+text-decoration:underline;
+color:yellow;
+}
+h1 {
+text-align:center;
+color:black;
+background:white;
+}

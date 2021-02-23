@@ -1,0 +1,30 @@
+body {
+background-color:gray;
+color:white;
+border: 10px double blue
+}
+hr {
+border: 10px double blue;
+}
+.border1 {
+border: 10px solid blue;
+background-image: url(img.jpg);
+color:black;
+font-size:60px;
+font-family: bold;
+text-align: center
+}
+.border2 {
+border: 20px dotted black;
+background-color: transparent;
+color:black;
+font-size: 60px;
+text-align: center
+}
+.border3 {
+border: 15px double yellow;
+background-color: lime;
+color: yellow;
+font-size: 60px;
+text-align: center
+}

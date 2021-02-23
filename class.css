@@ -1,0 +1,26 @@
+body {
+background:gray;
+font-family:arial;
+}
+.class1 {
+background:red;
+font-size:34px;
+text-align:center;
+font-family:bold;
+color:white;
+}
+.class2 {
+background:black;
+font-size:26px;
+text-align:left;
+color:lime;
+text-decoration:underline;
+}
+.IMG {
+text-align:center;
+}
+.class3 {
+text-align:center;
+background:white;
+font-size:19px;
+}

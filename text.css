@@ -1,0 +1,12 @@
+h1 {
+font-style: italic;
+font-weight: lighter;
+font-variant: small-caps;
+vertical-align: bottom;
+text-indent: 60px;
+text-shadow: 5px 3px 12px blue;
+text-transform: capitalize;
+letter-spacing: normal;
+word-spacing: 30px;
+white-space: pre;
+}
